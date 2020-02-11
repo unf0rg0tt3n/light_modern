@@ -28,14 +28,12 @@ Settings
 frontend:
   themes: !include_dir_merge_named themes
 ```
-3. copy www/bg/lmod.jpg to your config folder
-4. restart home-assistant
-5. select the theme in your user's profile (bottom left)
+3. restart home-assistant
+4. select the theme in your user's profile (bottom left)
 
 #### HACS
 
 1. Go to the Community Store.
 2. Search for and navigate to`Light Modern`.
-3. Press Install.
-4. Download and copy www/bg/lmod.jpg to your config folder
-5. Restart home-assistant and select the theme
+3. Press Install. 
+4. Restart home-assistant and select the theme
