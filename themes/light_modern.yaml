@@ -1,6 +1,6 @@
 lightmodern:
 
-  lovelace-background: 'center / cover no-repeat url("/local/bg/lmod.jpg") fixed'
+  lovelace-background: 'center / cover no-repeat url("https://raw.githubusercontent.com/unf0rg0tt3n/light_modern/master/www/bg/lmod.jpg") fixed'
   primary-color: 'rgba(0, 135, 131, 0.8)'
   primary-background-color: 'rgba(250, 250, 250, 0.8)'
   secondary-background-color: 'rgba(242, 242, 242, 0.6)'
