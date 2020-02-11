@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/dkit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
 ## light modern
 
 Light theme with transparant cards and green colors for [Home Assistant](https://www.home-assistant.io)
@@ -7,13 +9,13 @@ Light theme with transparant cards and green colors for [Home Assistant](https:/
 ## Screenshot
 
 Default view
-![](screenshot/default.JPG)
+![](https://github.com/unf0rg0tt3n/light_modern/blob/master/screenshot/default.JPG)
 
 History 
-![](screenshot/history.JPG)
+![](https://github.com/unf0rg0tt3n/light_modern/blob/master/screenshot/history.JPG)
 
 Settings
-![](screenshot/settings.JPG)
+![](https://github.com/unf0rg0tt3n/light_modern/blob/master/screenshot/settings.JPG)
 
 
 ## Installation
@@ -33,6 +35,7 @@ frontend:
 #### HACS
 
 1. Go to the Community Store.
-2. Search for `Light Modern`.
-3. Navigate to `Light Modern`.
-4. Press Install.
+2. Search for and navigate to`Light Modern`.
+3. Press Install.
+4. Download and copy www/bg/lmod.jpg to your config folder
+5. Restart home-assistant and select the theme
